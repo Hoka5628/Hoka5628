@@ -66,7 +66,8 @@
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) CertNexus Certified Ethical Emerging Technologist](https://www.coursera.org/account/accomplishments/professional-cert/67N5UGEM1DZ9)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Python for Everybody](https://www.coursera.org/account/accomplishments/specialization/7LZY2R8W4KI5)
 - [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Academic Skills for University Success](https://www.coursera.org/account/accomplishments/specialization/KXHX97EULWUS)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Certified Ethical Hacking (v12)](https://www.coursera.org/account/accomplishments/specialization/9OWUARHM69NG)
 
 <!-- CISCO NETWORKING ACADEMY CRERTIFICATE -->
-- [![KAGGLE](https://img.shields.io/badge/-CISCO_NETWORKING_ACADEMY-blue) Introduction to Networks](https://www.netacad.com/certificates?issuanceId=ae9d4a29-5975-4f03-a84d-1c9b9385decb)
-- [![KAGGLE](https://img.shields.io/badge/-CISCO_NETWORKING_ACADEMY-blue) CyberOps Associate](https://www.netacad.com/certificates?issuanceId=e8d8cb09-da3e-4b27-8a3e-9607077502d5)
+- [![CISCO_NETWORKING_ACADEMY](https://img.shields.io/badge/-CISCO_NETWORKING_ACADEMY-blue) Introduction to Networks](https://www.netacad.com/certificates?issuanceId=ae9d4a29-5975-4f03-a84d-1c9b9385decb)
+- [![CISCO_NETWORKING_ACADEMY](https://img.shields.io/badge/-CISCO_NETWORKING_ACADEMY-blue) CyberOps Associate](https://www.netacad.com/certificates?issuanceId=e8d8cb09-da3e-4b27-8a3e-9607077502d5)
